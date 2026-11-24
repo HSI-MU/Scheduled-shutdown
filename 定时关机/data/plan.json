@@ -1,0 +1,9 @@
+{
+  "Version": 1,
+  "ScheduledAtUtc": "2026-11-24T01:56:22.7324154+08:00",
+  "DueUtc": "2026-11-24T02:30:00+08:00",
+  "TotalSeconds": 2018,
+  "Mode": "time",
+  "TargetLabel": "\u4ECA\u5929 \u00B7 11\u670824\u65E5 \u5468\u4E8C",
+  "BootMarkerTicks": 639309982800000000
+}
